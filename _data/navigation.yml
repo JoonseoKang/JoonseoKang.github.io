@@ -19,8 +19,8 @@ sidebar-category:
         url: "/csharp"
         category: "csharp"
       
-      - title: "Minimal-Mistakes"
-        url: "/Minimal-Mistakes"
+      - title: "categories"
+        url: "/categories"
         category: "Minimal-Mistakes"
 
       - title: "Tools"

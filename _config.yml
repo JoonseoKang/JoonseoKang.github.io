@@ -290,6 +290,8 @@ defaults:
       comments: # 블로그 댓글 기능 true
       share: true
       related: true
+      sidebar: # add
+        nav: "sidebar-category" # add
 
   # _pages
   - scope:

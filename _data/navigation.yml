@@ -5,6 +5,14 @@ main:
     
   - title: "About"
     url: /about/
+    
+  - title: "윤동주"
+    url: /categories/윤동주/
+    
+  - title: "Categories"
+    url: /categories/
+    
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

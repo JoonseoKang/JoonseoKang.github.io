@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "모르는게 많은 데이터 사이언티스트"
+  name             : "모르는게 많은 \n 데이터 사이언티스트"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "언젠가 아는게 많아질 데이터 사이언티스트"
+  bio              : "언젠가 아는게 많아질 \n 데이터 사이언티스트"
   location         : "South Korea"
   email            :
   links:
